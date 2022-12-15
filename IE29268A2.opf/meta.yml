@@ -1,0 +1,28 @@
+id: IE29268A2
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:20:43.950891+00:00
+last_modified: 2022-12-15 07:20:43.950900+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-01-29T22:25:18.805Z'
+  creationid: BG
+  eft-text-id: UT22084-051-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_113-The_White_Lotus_of_the_Good_Dharma-v1
+bases:
+  B989:
+    source_metadata: null
+    order: 1
+    base_file: B989.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
